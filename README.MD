@@ -42,7 +42,7 @@ Factores que Disminuyen la Probabilidad de Cancelación
    Métodos como débito automático muestran menor tasa de cancelación. Indican estabilidad financiera o menor fricción.
 
 5. Gasto Total (`Charges.Total`):
-   Quienes ya invirtieron más en la empresa tienden a quedarse. Esto puede deberse al “efecto inversión” o “costos hundidos”.
+   Quienes ya invirtieron más en la empresa tienden a quedarse. Esto puede deberse al “efecto inversión”.
 
 6. Servicios de Valor Agregado (`OnlineSecurity`, `TechSupport`): 
    Mejoran la percepción de calidad y satisfacción, favoreciendo la retención.
