@@ -20,6 +20,40 @@ Modelos clásicos de clasificación:
 
 5-RamdomForetClassifier
 
+Métodos de valuación y evolución de los modelos
+
+1-Validar el archivo del Challenges TelecomX1 acomodándolo para la valuación y evolución de los modelos de predicción.
+
+2-Correlación de variables numéricas con Churn.
+
+3-Comprobación de la exactitud de los modelos(accuracy)
+
+4-Validando los modelos.
+
+5-Matriz de confusión.
+
+6-Curva ROC.
+
+7-Curva de precisión vs sensibilidad.
+
+8-Informe de métricas.
+
+9-Validación cruzada.
+
+10-Validación cruzada con sensibilidad.
+
+11-Stratfield Kfold Estratificando los datos.
+
+12-Oversampling Balanceo de datos.
+
+13-Pipeline para validación.
+
+14-Undersampling.
+
+15-Optimización hiperparámetros.
+
+16-Insights Finales Basados en la Correlación con Churn
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Insights Finales Basados en la Correlación con Churn
 
 Factores que Aumentan la Probabilidad de Cancelación
