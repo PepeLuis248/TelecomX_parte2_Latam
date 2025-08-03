@@ -1,5 +1,5 @@
 TelecomX2: Predicción de Cancelación (Churn)
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
 
 La empresa quiere anticiparse al problema de la cancelación, y te corresponde a ti construir un pipeline robusto para esta etapa inicial de modelado.
@@ -20,8 +20,8 @@ Modelos clásicos de clasificación:
 
 5-RamdomForetClassifier
 
-Métodos de valuación y evolución de los modelos
-
+Métodos de valuación y evolución de los modelos.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1-Validar el archivo del Challenges TelecomX1 acomodándolo para la valuación y evolución de los modelos de predicción.
 
 2-Correlación de variables numéricas con Churn.
@@ -53,9 +53,9 @@ Métodos de valuación y evolución de los modelos
 15-Optimización hiperparámetros.
 
 16-Insights Finales Basados en la Correlación con Churn
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Insights Finales Basados en la Correlación con Churn
 
+Insights Finales Basados en la Correlación con Churn
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Factores que Aumentan la Probabilidad de Cancelación
 
 1. Altos Cargos Mensuales (`Charges.Monthly`):  
