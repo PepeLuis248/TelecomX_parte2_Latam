@@ -1,10 +1,24 @@
-Telecom X – Parte 2: Predicción de Cancelación (Churn)
+TelecomX2: Predicción de Cancelación (Churn)
 
 Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
 
 La empresa quiere anticiparse al problema de la cancelación, y te corresponde a ti construir un pipeline robusto para esta etapa inicial de modelado.
 
 Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
+
+Para desarrollar de un modelo predictivo capaz de prever que clientes tienen mayor probabilidad de cancelar sus compras o sus pagos; he realizado un exhaustivo estudio de un recorrido por todos los posibles métodos de valuación y evolución de los modelos, utilizando el archivo datos_TelecomX_Fla.json del Challenges TelecomX1. Dado que la variable objetivo es Churn (abandono del cliente, es binaria), este es un problema de clasificación binaria. Se pueden aplicar modelos como:
+
+Modelos clásicos de clasificación:
+
+1-Regresión logística (LogisticRegression)
+
+2-Árboles de decisión
+
+3-K-Nearest Neighbors (KNN)
+
+4-SVM (Support Vector Machines)
+
+5-RamdomForetClassifier
 
 Insights Finales Basados en la Correlación con Churn
 
