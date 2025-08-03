@@ -1,4 +1,4 @@
-#Telecom X – Parte 2: Predicción de Cancelación (Churn)
+Telecom X – Parte 2: Predicción de Cancelación (Churn)
 
 Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
 
